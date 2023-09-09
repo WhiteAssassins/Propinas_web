@@ -1,0 +1,14 @@
+{
+    "nombre": "Calculadora de Propina",
+    "descripcion": "Una calculadora que permite a los usuarios calcular la propina adecuada basada en el total de la cuenta y el porcentaje de propina seleccionado.",
+    "fecha_creacion": "2023-09-10",
+    "version": "1.0",
+    "fecha_ultima_actualizacion": "2023-09-10",
+    "herramientas_utilizadas": ["HTML", "CSS", "JavaScript", "Tailwind CSS"],
+    "creador": "WhiteAssassins",
+    "lenguaje": "JavaScript",
+    "categorias": ["Finanzas", "Herramientas"],
+    "etiquetas": ["Web", "Calculadora", "Propina", "HTML5", "CSS3", "JavaScript"],
+    "licencia": "Licencia MIT",
+    "estado": "Completado"
+}
